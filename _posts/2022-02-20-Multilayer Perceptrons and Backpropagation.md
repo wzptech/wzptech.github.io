@@ -9,17 +9,17 @@ tags: [Deep Learning, Multilayer Perceptrons and Backpropagation]
 
 # Feedforward Neural Networks
 
-![Screen Shot 2022-05-12 at 16.04.36.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_16.04.36.png)
+![Screen Shot 2022-05-12 at 16.04.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_16.04.36.png)
 
-![Screen Shot 2022-05-12 at 17.09.23.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.09.23.png)
+![Screen Shot 2022-05-12 at 17.09.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.09.23.png)
 
-![Screen Shot 2022-05-12 at 17.10.20.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.10.20.png)
+![Screen Shot 2022-05-12 at 17.10.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.10.20.png)
 
-![Screen Shot 2022-05-12 at 17.10.51.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.10.51.png)
+![Screen Shot 2022-05-12 at 17.10.51.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.10.51.png)
 
-![Screen Shot 2022-05-12 at 17.11.02.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.11.02.png)
+![Screen Shot 2022-05-12 at 17.11.02.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.11.02.png)
 
-![Screen Shot 2022-05-12 at 17.11.38.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.11.38.png)
+![Screen Shot 2022-05-12 at 17.11.38.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.11.38.png)
 
 
 ### Feedforward Neural Networks Python code
@@ -87,17 +87,17 @@ Output
 
 ## Backpropagation Algorithm
 
-![Screen Shot 2022-05-12 at 17.13.11.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.13.11.png)
+![Screen Shot 2022-05-12 at 17.13.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.13.11.png)
 
-![Screen Shot 2022-05-12 at 17.13.33.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.13.33.png)
+![Screen Shot 2022-05-12 at 17.13.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.13.33.png)
 
-![Screen Shot 2022-05-12 at 17.14.56.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.14.56.png)
+![Screen Shot 2022-05-12 at 17.14.56.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.14.56.png)
 
-![Screen Shot 2022-05-12 at 17.15.06.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.15.06.png)
+![Screen Shot 2022-05-12 at 17.15.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.15.06.png)
 
-![Screen Shot 2022-05-12 at 17.16.03.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.16.03.png)
+![Screen Shot 2022-05-12 at 17.16.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.16.03.png)
 
-![Screen Shot 2022-05-12 at 17.16.17.png](Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.16.17.png)
+![Screen Shot 2022-05-12 at 17.16.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_17.16.17.png)
 
 
 ### Backpropagation Algorithm Python Code

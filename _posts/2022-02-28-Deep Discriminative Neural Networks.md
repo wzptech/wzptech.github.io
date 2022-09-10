@@ -7,21 +7,21 @@ tags: [Deep Learning, Deep Discriminative Neural Networks]
 ---
 
 
-![Screen Shot 2022-05-12 at 22.56.08.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.56.08.png)
+![Screen Shot 2022-05-12 at 22.56.08.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.56.08.png)
 
-![Screen Shot 2022-05-12 at 22.57.26.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.57.26.png)
+![Screen Shot 2022-05-12 at 22.57.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.57.26.png)
 
-![Screen Shot 2022-05-12 at 22.58.41.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.58.41.png)
+![Screen Shot 2022-05-12 at 22.58.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.58.41.png)
 
-![Screen Shot 2022-05-12 at 22.59.32.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.59.32.png)
+![Screen Shot 2022-05-12 at 22.59.32.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.59.32.png)
 
-![Screen Shot 2022-05-12 at 23.02.50.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.02.50.png)
+![Screen Shot 2022-05-12 at 23.02.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.02.50.png)
 
 ## Activation Functions with Non-Vanishing Derivatives
 
-![Screen Shot 2022-05-12 at 23.04.58.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.04.58.png)
+![Screen Shot 2022-05-12 at 23.04.58.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.04.58.png)
 
-![Screen Shot 2022-05-12 at 23.05.08.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.05.08.png)
+![Screen Shot 2022-05-12 at 23.05.08.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.05.08.png)
 
 ### Activate Functions Python code
 
@@ -58,23 +58,23 @@ Output
 
 ## Better Ways to Initialise Weights
 
-![Screen Shot 2022-05-12 at 23.05.48.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.05.48.png)
+![Screen Shot 2022-05-12 at 23.05.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.05.48.png)
 
 ## Adaptive Versions of Backpropagation
 
-![Screen Shot 2022-05-12 at 23.10.44.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.10.44.png)
+![Screen Shot 2022-05-12 at 23.10.44.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.10.44.png)
 
-![Screen Shot 2022-05-12 at 23.11.01.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.11.01.png)
+![Screen Shot 2022-05-12 at 23.11.01.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.11.01.png)
 
-![Screen Shot 2022-05-12 at 23.11.30.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.11.30.png)
+![Screen Shot 2022-05-12 at 23.11.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.11.30.png)
 
 ## Batch Normalisation
 
-![Screen Shot 2022-05-12 at 23.16.45.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.16.45.png)
+![Screen Shot 2022-05-12 at 23.16.45.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.16.45.png)
 
-![Screen Shot 2022-05-12 at 23.22.53.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.22.53.png)
+![Screen Shot 2022-05-12 at 23.22.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.22.53.png)
 
-![Screen Shot 2022-05-12 at 23.23.10.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.23.10.png)
+![Screen Shot 2022-05-12 at 23.23.10.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.23.10.png)
 
 
 ### Batch normalisation
@@ -123,23 +123,23 @@ Output
 
 # Convolutional Neural Networks
 
-![Screen Shot 2022-05-12 at 23.24.22.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.22.png)
+![Screen Shot 2022-05-12 at 23.24.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.22.png)
 
-![Screen Shot 2022-05-12 at 23.24.38.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.38.png)
+![Screen Shot 2022-05-12 at 23.24.38.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.38.png)
 
-![Screen Shot 2022-05-12 at 23.24.54.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.54.png)
+![Screen Shot 2022-05-12 at 23.24.54.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.24.54.png)
 
-![Screen Shot 2022-05-12 at 23.25.30.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.25.30.png)
+![Screen Shot 2022-05-12 at 23.25.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.25.30.png)
 
-![Screen Shot 2022-05-12 at 23.26.26.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.26.26.png)
+![Screen Shot 2022-05-12 at 23.26.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.26.26.png)
 
-![Screen Shot 2022-05-12 at 23.26.53.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.26.53.png)
+![Screen Shot 2022-05-12 at 23.26.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.26.53.png)
 
-![Screen Shot 2022-05-12 at 23.28.00.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.00.png)
+![Screen Shot 2022-05-12 at 23.28.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.00.png)
 
-![Screen Shot 2022-05-12 at 23.28.13.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.13.png)
+![Screen Shot 2022-05-12 at 23.28.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.13.png)
 
-![Screen Shot 2022-05-12 at 23.28.26.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.26.png)
+![Screen Shot 2022-05-12 at 23.28.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.28.26.png)
 
 ### Convolutional Neural Networks Forward python code
 
@@ -185,7 +185,7 @@ Output
 
 ## Pooling Layers
 
-![Screen Shot 2022-05-12 at 23.30.48.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.30.48.png)
+![Screen Shot 2022-05-12 at 23.30.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.30.48.png)
 
 ### avg pooling, max pooling python code
 
@@ -205,36 +205,36 @@ Output
 
 ## Fully Connected Layers
 
-![Screen Shot 2022-05-12 at 23.34.25.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.34.25.png)
+![Screen Shot 2022-05-12 at 23.34.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.34.25.png)
 
 ### final network
 
-![Screen Shot 2022-05-12 at 23.49.16.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.16.png)
+![Screen Shot 2022-05-12 at 23.49.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.16.png)
 
-![Screen Shot 2022-05-12 at 23.49.28.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.28.png)
+![Screen Shot 2022-05-12 at 23.49.28.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.28.png)
 
-![Screen Shot 2022-05-12 at 23.49.44.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.44.png)
+![Screen Shot 2022-05-12 at 23.49.44.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.49.44.png)
 
-![Screen Shot 2022-05-12 at 23.50.04.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.50.04.png)
+![Screen Shot 2022-05-12 at 23.50.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.50.04.png)
 
 # Limitations of Deep NNs
 
 ### Volume of Training Data
 
-![Screen Shot 2022-05-12 at 23.51.49.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.51.49.png)
+![Screen Shot 2022-05-12 at 23.51.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.51.49.png)
 
-![Screen Shot 2022-05-12 at 23.54.49.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.54.49.png)
+![Screen Shot 2022-05-12 at 23.54.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.54.49.png)
 
 ### Overfitting
 
-![Screen Shot 2022-05-12 at 23.55.04.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.55.04.png)
+![Screen Shot 2022-05-12 at 23.55.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.55.04.png)
 
 ### Failure to Generalise
 
-![Screen Shot 2022-05-12 at 23.55.50.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.55.50.png)
+![Screen Shot 2022-05-12 at 23.55.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.55.50.png)
 
-![Screen Shot 2022-05-12 at 23.56.04.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.04.png)
+![Screen Shot 2022-05-12 at 23.56.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.04.png)
 
-![Screen Shot 2022-05-12 at 23.56.25.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.25.png)
+![Screen Shot 2022-05-12 at 23.56.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.25.png)
 
-![Screen Shot 2022-05-12 at 23.56.36.png](Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.36.png)
+![Screen Shot 2022-05-12 at 23.56.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_23.56.36.png)

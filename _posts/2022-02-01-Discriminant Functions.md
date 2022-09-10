@@ -12,20 +12,20 @@ Discriminant functions divide feature space into regions
 
 ## Linear Discriminant Functions
 
-![Screen Shot 2022-05-10 at 15.38.14.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.38.14.png)
+![Screen Shot 2022-05-10 at 15.38.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.38.14.png)
 
-![Screen Shot 2022-05-10 at 15.40.05.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.40.05.png)
+![Screen Shot 2022-05-10 at 15.40.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.40.05.png)
 
-![Screen Shot 2022-05-10 at 15.40.17.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.40.17.png)
+![Screen Shot 2022-05-10 at 15.40.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.40.17.png)
 
-![Screen Shot 2022-05-10 at 15.41.19.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.41.19.png)
+![Screen Shot 2022-05-10 at 15.41.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.41.19.png)
 
-![Screen Shot 2022-05-10 at 15.42.41.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.42.41.png)
+![Screen Shot 2022-05-10 at 15.42.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.42.41.png)
 
 
 ### Generalised Linear Discriminant Functions
 
-![Screen Shot 2022-05-10 at 15.43.32.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.43.32.png)
+![Screen Shot 2022-05-10 at 15.43.32.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_15.43.32.png)
 
 ### Dichotomizer Python code
 
@@ -53,21 +53,21 @@ Output
 
 Perceptron Criterion Function
 
-![Screen Shot 2022-05-10 at 16.02.43.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_16.02.43.png)
+![Screen Shot 2022-05-10 at 16.02.43.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_16.02.43.png)
 
-![Screen Shot 2022-05-10 at 16.03.03.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_16.03.03.png)
+![Screen Shot 2022-05-10 at 16.03.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-10_at_16.03.03.png)
 
-![Screen Shot 2022-05-11 at 22.19.43.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.19.43.png)
+![Screen Shot 2022-05-11 at 22.19.43.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.19.43.png)
 
 # Sequential Perceptron Learning Algorithm
 
-![Screen Shot 2022-05-11 at 22.51.24.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.51.24.png)
+![Screen Shot 2022-05-11 at 22.51.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.51.24.png)
 
-![Screen Shot 2022-05-11 at 22.51.40.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.51.40.png)
+![Screen Shot 2022-05-11 at 22.51.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.51.40.png)
 
-![Screen Shot 2022-05-11 at 22.53.58.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.53.58.png)
+![Screen Shot 2022-05-11 at 22.53.58.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.53.58.png)
 
-![Screen Shot 2022-05-11 at 22.54.20.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.54.20.png)
+![Screen Shot 2022-05-11 at 22.54.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_22.54.20.png)
 
 ### Sequential Perceptron Learning Algorithm Python code
 
@@ -431,11 +431,11 @@ Output
 
 ## Minimum Squared Error (MSE) Procedures
 
-![Screen Shot 2022-05-11 at 23.54.07.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_23.54.07.png)
+![Screen Shot 2022-05-11 at 23.54.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-11_at_23.54.07.png)
 
-![Screen Shot 2022-05-12 at 00.07.13.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.13.png)
+![Screen Shot 2022-05-12 at 00.07.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.13.png)
 
-![Screen Shot 2022-05-12 at 00.07.22.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.22.png)
+![Screen Shot 2022-05-12 at 00.07.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.22.png)
 
 ### Minimum Squared Error (MSE) Procedures Python code
 
@@ -449,9 +449,9 @@ Output
 
 # Widrow-Hoff (or LMS) Learning Algorithm
 
-![Screen Shot 2022-05-12 at 00.07.53.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.53.png)
+![Screen Shot 2022-05-12 at 00.07.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.07.53.png)
 
-![Screen Shot 2022-05-12 at 00.08.09.png](Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.08.09.png)
+![Screen Shot 2022-05-12 at 00.08.09.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%202%20Discriminant%20Functions%20b0ab70fc0a964f04ab3e4e6405ef9a32/Screen_Shot_2022-05-12_at_00.08.09.png)
 
 
 ### Sequential Widrow-Hoff Learning Algorithm Python code

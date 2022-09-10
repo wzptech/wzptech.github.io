@@ -7,59 +7,59 @@ tags: [Deep Learning, Support Vector Machines]
 ---
 
 
-![Screen Shot 2022-05-14 at 01.20.07.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.20.07.png)
+![Screen Shot 2022-05-14 at 01.20.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.20.07.png)
 
-![Screen Shot 2022-05-14 at 01.37.37.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.37.37.png)
+![Screen Shot 2022-05-14 at 01.37.37.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.37.37.png)
 
-![Screen Shot 2022-05-14 at 01.38.03.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.38.03.png)
+![Screen Shot 2022-05-14 at 01.38.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.38.03.png)
 
-![Screen Shot 2022-05-14 at 01.41.26.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.26.png)
+![Screen Shot 2022-05-14 at 01.41.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.26.png)
 
-![Screen Shot 2022-05-14 at 01.41.40.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.40.png)
+![Screen Shot 2022-05-14 at 01.41.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.40.png)
 
-![Screen Shot 2022-05-14 at 01.41.51.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.51.png)
+![Screen Shot 2022-05-14 at 01.41.51.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.41.51.png)
 
-![Screen Shot 2022-05-14 at 01.46.24.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.46.24.png)
+![Screen Shot 2022-05-14 at 01.46.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.46.24.png)
 
-![Screen Shot 2022-05-14 at 01.48.00.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.00.png)
+![Screen Shot 2022-05-14 at 01.48.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.00.png)
 
-![Screen Shot 2022-05-14 at 01.48.11.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.11.png)
+![Screen Shot 2022-05-14 at 01.48.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.11.png)
 
-![Screen Shot 2022-05-14 at 01.48.29.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.29.png)
+![Screen Shot 2022-05-14 at 01.48.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.29.png)
 
-![Screen Shot 2022-05-14 at 01.48.49.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.49.png)
+![Screen Shot 2022-05-14 at 01.48.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.48.49.png)
 
-![Screen Shot 2022-05-14 at 01.50.28.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.50.28.png)
+![Screen Shot 2022-05-14 at 01.50.28.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.50.28.png)
 
-![Screen Shot 2022-05-14 at 01.50.57.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.50.57.png)
+![Screen Shot 2022-05-14 at 01.50.57.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.50.57.png)
 
-![Screen Shot 2022-05-14 at 01.52.15.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.52.15.png)
+![Screen Shot 2022-05-14 at 01.52.15.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.52.15.png)
 
 # Nonlinear SVMs
 
-![Screen Shot 2022-05-14 at 01.55.35.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.55.35.png)
+![Screen Shot 2022-05-14 at 01.55.35.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.55.35.png)
 
-![Screen Shot 2022-05-14 at 01.56.04.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.56.04.png)
+![Screen Shot 2022-05-14 at 01.56.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.56.04.png)
 
-![Screen Shot 2022-05-14 at 01.56.25.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.56.25.png)
+![Screen Shot 2022-05-14 at 01.56.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.56.25.png)
 
-![Screen Shot 2022-05-14 at 01.57.57.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.57.57.png)
+![Screen Shot 2022-05-14 at 01.57.57.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.57.57.png)
 
-![Screen Shot 2022-05-14 at 01.58.48.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.58.48.png)
+![Screen Shot 2022-05-14 at 01.58.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.58.48.png)
 
 # Multi-class SVMs
 
-![Screen Shot 2022-05-14 at 01.59.56.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.59.56.png)
+![Screen Shot 2022-05-14 at 01.59.56.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.59.56.png)
 
-![Screen Shot 2022-05-14 at 02.00.26.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.00.26.png)
+![Screen Shot 2022-05-14 at 02.00.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.00.26.png)
 
-![Screen Shot 2022-05-14 at 02.00.38.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.00.38.png)
+![Screen Shot 2022-05-14 at 02.00.38.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.00.38.png)
 
-![Screen Shot 2022-05-14 at 02.01.40.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.01.40.png)
+![Screen Shot 2022-05-14 at 02.01.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.01.40.png)
 
-![Screen Shot 2022-05-14 at 02.01.53.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.01.53.png)
+![Screen Shot 2022-05-14 at 02.01.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.01.53.png)
 
-![Screen Shot 2022-05-14 at 02.02.15.png](Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.02.15.png)
+![Screen Shot 2022-05-14 at 02.02.15.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_02.02.15.png)
 
 ### SVM find hyperplane by support vectors python code
 

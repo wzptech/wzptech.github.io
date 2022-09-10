@@ -10,19 +10,19 @@ tags: [Deep Learning, Clustering]
 
 ## Clustering
 
-![Screen Shot 2022-05-14 at 17.30.38.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.30.38.png)
+![Screen Shot 2022-05-14 at 17.30.38.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.30.38.png)
 
-![Screen Shot 2022-05-14 at 17.30.49.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.30.49.png)
+![Screen Shot 2022-05-14 at 17.30.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.30.49.png)
 
 ### K-means
 
-![Screen Shot 2022-05-14 at 17.31.42.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.31.42.png)
+![Screen Shot 2022-05-14 at 17.31.42.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.31.42.png)
 
-![Screen Shot 2022-05-14 at 17.31.55.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.31.55.png)
+![Screen Shot 2022-05-14 at 17.31.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.31.55.png)
 
-![Screen Shot 2022-05-14 at 17.32.30.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.32.30.png)
+![Screen Shot 2022-05-14 at 17.32.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.32.30.png)
 
-![Screen Shot 2022-05-14 at 17.32.44.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.32.44.png)
+![Screen Shot 2022-05-14 at 17.32.44.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.32.44.png)
 
 ### Kmeans python code
 
@@ -91,11 +91,11 @@ Output
 
 ### Fuzzy K-means
 
-![Screen Shot 2022-05-14 at 17.33.30.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.33.30.png)
+![Screen Shot 2022-05-14 at 17.33.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.33.30.png)
 
-![Screen Shot 2022-05-14 at 17.33.51.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.33.51.png)
+![Screen Shot 2022-05-14 at 17.33.51.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.33.51.png)
 
-![Screen Shot 2022-05-14 at 17.34.19.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.34.19.png)
+![Screen Shot 2022-05-14 at 17.34.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.34.19.png)
 
 ### Fuzzy K means python code
 
@@ -226,21 +226,21 @@ Output
 
 ### Iterative Optimization
 
-![Screen Shot 2022-05-14 at 17.35.06.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.06.png)
+![Screen Shot 2022-05-14 at 17.35.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.06.png)
 
-![Screen Shot 2022-05-14 at 17.35.25.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.25.png)
+![Screen Shot 2022-05-14 at 17.35.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.25.png)
 
-![Screen Shot 2022-05-14 at 17.35.41.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.41.png)
+![Screen Shot 2022-05-14 at 17.35.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.35.41.png)
 
-![Screen Shot 2022-05-14 at 17.36.28.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.36.28.png)
+![Screen Shot 2022-05-14 at 17.36.28.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.36.28.png)
 
 ### Hierarchical Clustering
 
-![Screen Shot 2022-05-14 at 17.37.16.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.37.16.png)
+![Screen Shot 2022-05-14 at 17.37.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.37.16.png)
 
-![Screen Shot 2022-05-14 at 17.37.34.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.37.34.png)
+![Screen Shot 2022-05-14 at 17.37.34.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.37.34.png)
 
-![Screen Shot 2022-05-14 at 17.38.05.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.38.05.png)
+![Screen Shot 2022-05-14 at 17.38.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.38.05.png)
 
 ### hierarchical agglomerative python code
 
@@ -429,19 +429,19 @@ Output
 
 ### Competitive Learning
 
-![Screen Shot 2022-05-14 at 17.39.25.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.39.25.png)
+![Screen Shot 2022-05-14 at 17.39.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.39.25.png)
 
-![Screen Shot 2022-05-14 at 17.42.06.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.06.png)
+![Screen Shot 2022-05-14 at 17.42.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.06.png)
 
-![Screen Shot 2022-05-14 at 17.42.25.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.25.png)
+![Screen Shot 2022-05-14 at 17.42.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.25.png)
 
-![Screen Shot 2022-05-14 at 17.42.45.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.45.png)
+![Screen Shot 2022-05-14 at 17.42.45.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.42.45.png)
 
-![Screen Shot 2022-05-14 at 17.43.03.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.43.03.png)
+![Screen Shot 2022-05-14 at 17.43.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.43.03.png)
 
-![Screen Shot 2022-05-14 at 17.43.20.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.43.20.png)
+![Screen Shot 2022-05-14 at 17.43.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.43.20.png)
 
-![Screen Shot 2022-05-14 at 17.44.12.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.44.12.png)
+![Screen Shot 2022-05-14 at 17.44.12.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.44.12.png)
 
 ### Competitive learning alogrithm without normalization python code
 
@@ -505,13 +505,13 @@ Output
 
 ### Clustering for Unknown Number of Clusters
 
-![Screen Shot 2022-05-14 at 17.45.07.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.07.png)
+![Screen Shot 2022-05-14 at 17.45.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.07.png)
 
-![Screen Shot 2022-05-14 at 17.45.23.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.23.png)
+![Screen Shot 2022-05-14 at 17.45.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.23.png)
 
-![Screen Shot 2022-05-14 at 17.45.42.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.42.png)
+![Screen Shot 2022-05-14 at 17.45.42.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.42.png)
 
-![Screen Shot 2022-05-14 at 17.45.58.png](Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.58.png)
+![Screen Shot 2022-05-14 at 17.45.58.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%2010%20Clustering%206fcbc345c23d4d2c89c4c969e19737ee/Screen_Shot_2022-05-14_at_17.45.58.png)
 
 ### Basic leader follower algorithm python code
 
