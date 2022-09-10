@@ -30,7 +30,3 @@ jobs:
           markdown_file: ${{ steps.posts.outputs.post0 }}
           base_url: https://myblog.com
           post_url: https://myblog.com/posts
-
-
-
-        
