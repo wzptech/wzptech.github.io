@@ -7,7 +7,7 @@ tags: [Deep Learning, Ensemble Methods]
 ---
 
 
-# Ensemble Methods
+# Deep Learning: Ensemble Methods
 
 # Bagging and Boosting
 

@@ -7,7 +7,7 @@ tags: [Deep Learning, Clustering]
 ---
 
 
-# Clustering
+# Deep Learning: Clustering
 
 # Unsupervised Learning
 

@@ -7,7 +7,7 @@ tags: [Deep Learning, Deep Discriminative Neural Networks]
 ---
 
 
-# Deep Discriminative Neural Networks
+# Deep Learning: Deep Discriminative Neural Networks
 ![Screen Shot 2022-05-12 at 22.56.08.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.56.08.png)
 
 ![Screen Shot 2022-05-12 at 22.57.26.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%205%20Deep%20Discriminative%20Neural%20Networks%207f5b46aa97134901bc4fd23f7a1da8a2/Screen_Shot_2022-05-12_at_22.57.26.png)

@@ -7,7 +7,7 @@ tags: [Deep Learning, Feature Extraction]
 ---
 
 
-# Feature Extraction
+# Deep Learning: Feature Extraction
 ![Screen Shot 2022-05-13 at 21.55.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_21.55.39.png)
 
 ## Principal Components Analysis
