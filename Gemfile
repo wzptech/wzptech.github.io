@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-gemspec "jekyll-theme-chirpy", "~> 5.2", ">= 5.2.1"
-# gemspec
+# gemspec "jekyll-theme-chirpy", "~> 5.2", ">= 5.2.1"
+gemspec
 
 group :test do
   gem "html-proofer", "~> 3.18"
