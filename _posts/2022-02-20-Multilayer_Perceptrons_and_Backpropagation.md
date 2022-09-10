@@ -6,6 +6,7 @@ categories: [Deep Learning, Multilayer Perceptrons and Backpropagation]
 tags: [Deep Learning, Multilayer Perceptrons and Backpropagation]
 ---
 
+
 # Multilayer Perceptrons and Backpropagation
 # Feedforward Neural Networks
 
