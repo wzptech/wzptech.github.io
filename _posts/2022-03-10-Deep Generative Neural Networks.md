@@ -6,7 +6,7 @@ categories: [Deep Learning, Deep Generative Neural Networks]
 tags: [Deep Learning, Deep Generative Neural Networks]
 ---
 
-
+# Deep Generative Neural Networks
 ![Screen Shot 2022-05-13 at 12.46.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.46.29.png)
 
 # Maximum Likelihood

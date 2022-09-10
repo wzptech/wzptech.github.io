@@ -6,6 +6,7 @@ categories: [Deep Learning, Neural Networks]
 tags: [Deep Learning, Neural Networks]
 ---
 
+# Neural Networks
 
 ![Screen Shot 2022-05-12 at 15.02.35.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.35.png)
 

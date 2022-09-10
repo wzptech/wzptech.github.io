@@ -6,7 +6,7 @@ categories: [Deep Learning, Ensemble Methods]
 tags: [Deep Learning, Ensemble Methods]
 ---
 
-
+# Ensemble Methods
 
 # Bagging and Boosting
 

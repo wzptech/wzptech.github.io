@@ -6,7 +6,7 @@ categories: [Deep Learning, Discriminant Functions]
 tags: [Deep Learning, Discriminant Functions]
 ---
 
-
+# Discriminant Functions
 
 Discriminant functions divide feature space into regions
 
