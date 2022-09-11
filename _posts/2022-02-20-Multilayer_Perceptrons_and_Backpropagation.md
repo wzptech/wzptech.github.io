@@ -8,6 +8,8 @@ tags: [Deep Learning, Multilayer Perceptrons and Backpropagation]
 
 
 # Deep Learning: Multilayer Perceptrons and Backpropagation
+Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
+
 ## Feedforward Neural Networks
 
 ![Screen Shot 2022-05-12 at 16.04.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%204%20Multilayer%20Perceptrons%20and%20Backpropagation%203f4c9f96bcf5443eba9689902a6014d8/Screen_Shot_2022-05-12_at_16.04.36.png)

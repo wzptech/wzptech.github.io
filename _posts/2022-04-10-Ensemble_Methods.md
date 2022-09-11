@@ -8,6 +8,8 @@ tags: [Deep Learning, Ensemble Methods]
 
 
 # Deep Learning: Ensemble Methods
+Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
+
 
 # Bagging and Boosting
 

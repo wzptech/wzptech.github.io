@@ -2,31 +2,48 @@ name: publish-to-medium
 on: [push]
 
 jobs:
-  build:
+  detect:
     runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Check out reposity
         uses: actions/checkout@v2
       - id: files
         uses: jitterbit/get-changed-files@v1
-      - id: posts
+      - id: set-matrix
         name: Detecting posts from the changes
         run: |
           i=0
+          file_list=""
+          delim=""
           for changed_file in ${{ steps.files.outputs.added_modified }}; do
             echo "Do something with ${changed_file}."
             if [[ "${changed_file}" == "_posts"* ]];
             then
               echo "File ${changed_file} matched post."
-              echo "::set-output name=post${i}::${changed_file}"
+              file_list="$file_list$delim\"$changed_file\""
+              delim=","
               ((i=i+1))
             fi
           done
-      - if: steps.posts.outputs.post0
+          file_list="[$file_list]"
+          echo "{\"node\":${file_list}}"
+          echo "::set-output name=matrix::{\"node\":${file_list}}"          
+  publish:
+    needs: detect
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{fromJson(needs.detect.outputs.matrix)}}
+    steps:
+      - run: echo ${{ matrix.node }}
+      - name: Check out reposity
+        uses: actions/checkout@v2
+      - if: matrix.node
         name: Publish to medium
         uses: infraway/post-medium-action@v1.6.0
         with:
           access_token: ${{ secrets.MEDIUM_ACCESS_TOKEN }}
-          markdown_file: ${{ steps.posts.outputs.post0 }}
+          markdown_file: ${{ matrix.node }}
           base_url: https://myblog.com
           post_url: https://myblog.com/posts

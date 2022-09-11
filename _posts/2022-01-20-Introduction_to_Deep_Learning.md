@@ -7,6 +7,7 @@ tags: [Deep Learning, Machine Learning]
 ---
 
 # Deep Learning: Introduction to Deep Learning
+Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
 ![Untitled](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Untitled.png)
 

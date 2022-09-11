@@ -8,6 +8,7 @@ tags: [Deep Learning, Discriminant Functions]
 
 
 # Deep Learning: Discriminant Functions
+Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
 Discriminant functions divide feature space into regions
 

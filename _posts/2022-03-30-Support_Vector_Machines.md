@@ -8,6 +8,8 @@ tags: [Deep Learning, Support Vector Machines]
 
 
 # Deep Learning: Support Vector Machines
+Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
+
 ![Screen Shot 2022-05-14 at 01.20.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.20.07.png)
 
 ![Screen Shot 2022-05-14 at 01.37.37.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%208%20Support%20Vector%20Machines%201d8954aa6c394a50a69130725f346679/Screen_Shot_2022-05-14_at_01.37.37.png)
