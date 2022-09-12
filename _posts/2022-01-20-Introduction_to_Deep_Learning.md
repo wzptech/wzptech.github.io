@@ -9,9 +9,9 @@ tags: [Deep Learning, Machine Learning]
 # Deep Learning: Introduction to Deep Learning
 Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
-![Untitled](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Untitled.png)
 
-![Screen Shot 2022-05-16 at 00.00.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-16_at_00.00.05.png)
+![Screen Shot 2022-05-16 at 00.00.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-16_at_00.00.05.png)
 
 ## Improving Performance
 
@@ -30,7 +30,7 @@ These choices interact:
 
 ## The Classifier Design Cycle
 
-![Screen Shot 2022-05-09 at 19.49.31.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-09_at_19.49.31.png)
+![Screen Shot 2022-05-09 at 19.49.31.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-09_at_19.49.31.png)
 
 ### Data collection
 
@@ -123,7 +123,7 @@ Design Considerations:
 
 – We use “performance” as a general term
 
-![Screen Shot 2022-05-10 at 14.12.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.12.00.png)
+![Screen Shot 2022-05-10 at 14.12.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.12.00.png)
 
 - Evaluation results my vary depending on how the dataset is split.
 - A better estimate of performance can be obtained by using multiple (k) splits and averaging results (called “k-fold cross-validation”):
@@ -139,21 +139,21 @@ Simplest metric to measure performance is error-rate: The same metric can be exp
 
 To explore where the prediction errors come from, we can create a confusion matrix, e.g.:
 
-![Screen Shot 2022-05-10 at 14.13.43.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.13.43.png)
+![Screen Shot 2022-05-10 at 14.13.43.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.13.43.png)
 
 If there are only two classes, then classifier is called a **dichotomizer**.
 
-![Screen Shot 2022-05-10 at 14.15.10.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.15.10.png)
+![Screen Shot 2022-05-10 at 14.15.10.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.15.10.png)
 
-![Screen Shot 2022-05-10 at 14.15.27.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.15.27.png)
+![Screen Shot 2022-05-10 at 14.15.27.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.15.27.png)
 
 error rate would improve if classifier always predicted “no car” (i.e. if classifier ignored the data!)
 
-![Screen Shot 2022-05-10 at 14.16.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.16.16.png)
+![Screen Shot 2022-05-10 at 14.16.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.16.16.png)
 
 Ignoring the data (by always predicting “false”) leads to poor performance measured with these metrics
 
-![Screen Shot 2022-05-10 at 14.17.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.17.23.png)
+![Screen Shot 2022-05-10 at 14.17.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.17.23.png)
 
 ### Calculating TP, FP, TN, FN Python code
     y =  [1,1,0,1,0,1,1]
@@ -292,4 +292,4 @@ The learning algorithm will also have parameters:
 
 ## Deployment
 
-![Screen Shot 2022-05-10 at 14.17.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.17.47.png)
+![Screen Shot 2022-05-10 at 14.17.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%201%20Introduction%20to%20Pattern%20Recognition%207250de5b75fe44729419c62e8a51c859/Screen_Shot_2022-05-10_at_14.17.47.png)

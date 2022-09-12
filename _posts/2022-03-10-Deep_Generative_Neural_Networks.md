@@ -10,45 +10,45 @@ tags: [Deep Learning, Deep Generative Neural Networks]
 # Deep Learning: Deep Generative Neural Networks
 Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
-![Screen Shot 2022-05-13 at 12.46.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.46.29.png)
+![Screen Shot 2022-05-13 at 12.46.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.46.29.png)
 
 # Maximum Likelihood
 
-![Screen Shot 2022-05-13 at 12.50.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.50.25.png)
+![Screen Shot 2022-05-13 at 12.50.25.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.50.25.png)
 
 # Generate image
 
-![Screen Shot 2022-05-13 at 12.52.08.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.52.08.png)
+![Screen Shot 2022-05-13 at 12.52.08.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.52.08.png)
 
-![Screen Shot 2022-05-13 at 12.52.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.52.33.png)
+![Screen Shot 2022-05-13 at 12.52.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.52.33.png)
 
-![Screen Shot 2022-05-13 at 12.53.12.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.53.12.png)
+![Screen Shot 2022-05-13 at 12.53.12.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.53.12.png)
 
-![Screen Shot 2022-05-13 at 12.53.32.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.53.32.png)
+![Screen Shot 2022-05-13 at 12.53.32.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.53.32.png)
 
-![Screen Shot 2022-05-13 at 12.54.59.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.54.59.png)
+![Screen Shot 2022-05-13 at 12.54.59.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.54.59.png)
 
 # ****Generative Adversarial Networks****
 
-![Screen Shot 2022-05-13 at 12.59.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.59.00.png)
+![Screen Shot 2022-05-13 at 12.59.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.59.00.png)
 
-![Screen Shot 2022-05-13 at 12.59.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.59.20.png)
+![Screen Shot 2022-05-13 at 12.59.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_12.59.20.png)
 
-![Screen Shot 2022-05-13 at 13.00.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.00.55.png)
+![Screen Shot 2022-05-13 at 13.00.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.00.55.png)
 
-![Screen Shot 2022-05-13 at 13.01.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.01.40.png)
+![Screen Shot 2022-05-13 at 13.01.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.01.40.png)
 
-![Screen Shot 2022-05-13 at 13.02.42.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.02.42.png)
+![Screen Shot 2022-05-13 at 13.02.42.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.02.42.png)
 
-![Screen Shot 2022-05-13 at 13.03.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.03.13.png)
+![Screen Shot 2022-05-13 at 13.03.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.03.13.png)
 
-![Screen Shot 2022-05-13 at 13.03.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.03.47.png)
+![Screen Shot 2022-05-13 at 13.03.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.03.47.png)
 
-![Screen Shot 2022-05-13 at 13.17.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.17.49.png)
+![Screen Shot 2022-05-13 at 13.17.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.17.49.png)
 
-![Screen Shot 2022-05-13 at 13.18.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.18.23.png)
+![Screen Shot 2022-05-13 at 13.18.23.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.18.23.png)
 
-![Screen Shot 2022-05-13 at 13.19.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.19.17.png)
+![Screen Shot 2022-05-13 at 13.19.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.19.17.png)
 
 
 ### Generative Adversarial Networks python code
@@ -195,26 +195,26 @@ Output
 
 # GAN Problems
 
-![Screen Shot 2022-05-13 at 13.20.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.20.50.png)
+![Screen Shot 2022-05-13 at 13.20.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.20.50.png)
 
 ### None-convergence
 
-![Screen Shot 2022-05-13 at 13.23.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.23.04.png)
+![Screen Shot 2022-05-13 at 13.23.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.23.04.png)
 
 ### Diminished gradient
 
-![Screen Shot 2022-05-13 at 13.24.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.24.11.png)
+![Screen Shot 2022-05-13 at 13.24.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.24.11.png)
 
-![Screen Shot 2022-05-13 at 13.25.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.14.png)
+![Screen Shot 2022-05-13 at 13.25.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.14.png)
 
-![Screen Shot 2022-05-13 at 13.25.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.36.png)
+![Screen Shot 2022-05-13 at 13.25.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.36.png)
 
-![Screen Shot 2022-05-13 at 13.25.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.55.png)
+![Screen Shot 2022-05-13 at 13.25.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.25.55.png)
 
-![Screen Shot 2022-05-13 at 13.26.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.26.33.png)
+![Screen Shot 2022-05-13 at 13.26.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.26.33.png)
 
-![Screen Shot 2022-05-13 at 13.26.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.26.47.png)
+![Screen Shot 2022-05-13 at 13.26.47.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.26.47.png)
 
-![Screen Shot 2022-05-13 at 13.27.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.27.03.png)
+![Screen Shot 2022-05-13 at 13.27.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.27.03.png)
 
-![Screen Shot 2022-05-13 at 13.27.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.27.19.png)
+![Screen Shot 2022-05-13 at 13.27.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%206%20Deep%20Generative%20Neural%20Networks%201722c20af05d4b04b0bca3f3f396be18/Screen_Shot_2022-05-13_at_13.27.19.png)

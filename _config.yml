@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/avatar.jpg'
+avatar: 'https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

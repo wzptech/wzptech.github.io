@@ -15,25 +15,25 @@ Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-lea
 
 ## Ensemble learning
 
-![Screen Shot 2022-05-14 at 02.05.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_02.05.46.png)
+![Screen Shot 2022-05-14 at 02.05.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_02.05.46.png)
 
-![Screen Shot 2022-05-14 at 12.33.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_12.33.33.png)
+![Screen Shot 2022-05-14 at 12.33.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_12.33.33.png)
 
-![Screen Shot 2022-05-14 at 12.34.10.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_12.34.10.png)
+![Screen Shot 2022-05-14 at 12.34.10.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_12.34.10.png)
 
-![Screen Shot 2022-05-14 at 13.05.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.05.06.png)
+![Screen Shot 2022-05-14 at 13.05.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.05.06.png)
 
 # Adaptive Boost
 
-![Screen Shot 2022-05-14 at 13.08.34.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.08.34.png)
+![Screen Shot 2022-05-14 at 13.08.34.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.08.34.png)
 
-![Screen Shot 2022-05-14 at 13.08.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.08.48.png)
+![Screen Shot 2022-05-14 at 13.08.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.08.48.png)
 
-![Screen Shot 2022-05-14 at 13.09.51.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.09.51.png)
+![Screen Shot 2022-05-14 at 13.09.51.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.09.51.png)
 
-![Screen Shot 2022-05-14 at 13.10.12.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.10.12.png)
+![Screen Shot 2022-05-14 at 13.10.12.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.10.12.png)
 
-![Screen Shot 2022-05-14 at 13.10.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.10.30.png)
+![Screen Shot 2022-05-14 at 13.10.30.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_13.10.30.png)
 
 ### Adaboost - Adaptive Boost Training python code
 
@@ -142,29 +142,29 @@ Output
 
 ### Stacked generalization
 
-![Screen Shot 2022-05-14 at 15.23.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.23.18.png)
+![Screen Shot 2022-05-14 at 15.23.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.23.18.png)
 
-![Screen Shot 2022-05-14 at 15.24.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.24.17.png)
+![Screen Shot 2022-05-14 at 15.24.17.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.24.17.png)
 
 ## Structure of ensemble classiﬁers
 
-![Screen Shot 2022-05-14 at 15.24.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.24.53.png)
+![Screen Shot 2022-05-14 at 15.24.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.24.53.png)
 
-![Screen Shot 2022-05-14 at 15.25.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.25.06.png)
+![Screen Shot 2022-05-14 at 15.25.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.25.06.png)
 
 # Decision Trees
 
-![Screen Shot 2022-05-14 at 15.27.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.27.07.png)
+![Screen Shot 2022-05-14 at 15.27.07.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_15.27.07.png)
 
-![Screen Shot 2022-05-14 at 16.53.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.00.png)
+![Screen Shot 2022-05-14 at 16.53.00.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.00.png)
 
-![Screen Shot 2022-05-14 at 16.53.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.18.png)
+![Screen Shot 2022-05-14 at 16.53.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.18.png)
 
-![Screen Shot 2022-05-14 at 16.53.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.41.png)
+![Screen Shot 2022-05-14 at 16.53.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.41.png)
 
-![Screen Shot 2022-05-14 at 16.53.59.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.59.png)
+![Screen Shot 2022-05-14 at 16.53.59.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.53.59.png)
 
-![Screen Shot 2022-05-14 at 16.52.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.52.13.png)
+![Screen Shot 2022-05-14 at 16.52.13.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.52.13.png)
 
 ### Entropy python code
 
@@ -200,18 +200,18 @@ Output
     
 # Bagging Decision Trees
 
-![Screen Shot 2022-05-14 at 16.54.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.54.53.png)
+![Screen Shot 2022-05-14 at 16.54.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.54.53.png)
 
-![Screen Shot 2022-05-14 at 16.55.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.55.24.png)
+![Screen Shot 2022-05-14 at 16.55.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.55.24.png)
 
 # Random Forests
 
-![Screen Shot 2022-05-14 at 16.56.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.56.46.png)
+![Screen Shot 2022-05-14 at 16.56.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.56.46.png)
 
-![Screen Shot 2022-05-14 at 16.57.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.03.png)
+![Screen Shot 2022-05-14 at 16.57.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.03.png)
 
-![Screen Shot 2022-05-14 at 16.57.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.20.png)
+![Screen Shot 2022-05-14 at 16.57.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.20.png)
 
-![Screen Shot 2022-05-14 at 16.57.44.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.44.png)
+![Screen Shot 2022-05-14 at 16.57.44.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%209%20Ensemble%20Methods%208922836651784caabf30669e25ebf21a/Screen_Shot_2022-05-14_at_16.57.44.png)
 
 Fast (scalable), Accurate, Simple to implement, Popular

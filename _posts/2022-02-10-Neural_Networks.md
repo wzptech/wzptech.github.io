@@ -10,33 +10,33 @@ tags: [Deep Learning, Neural Networks]
 # Deep Learning: Neural Networks
 Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
-![Screen Shot 2022-05-12 at 15.02.35.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.35.png)
+![Screen Shot 2022-05-12 at 15.02.35.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.35.png)
 
-![Screen Shot 2022-05-12 at 13.18.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.18.53.png)
+![Screen Shot 2022-05-12 at 13.18.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.18.53.png)
 
 # Neural Networks
 
-![Screen Shot 2022-05-12 at 13.19.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.19.41.png)
+![Screen Shot 2022-05-12 at 13.19.41.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.19.41.png)
 
-![Screen Shot 2022-05-12 at 13.19.52.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.19.52.png)
+![Screen Shot 2022-05-12 at 13.19.52.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.19.52.png)
 
-![Screen Shot 2022-05-12 at 13.20.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.04.png)
+![Screen Shot 2022-05-12 at 13.20.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.04.png)
 
-![Screen Shot 2022-05-12 at 13.20.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.16.png)
+![Screen Shot 2022-05-12 at 13.20.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.16.png)
 
-![Screen Shot 2022-05-12 at 13.20.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.39.png)
+![Screen Shot 2022-05-12 at 13.20.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_13.20.39.png)
 
 ## Linear Threshold Unit / Perceptron
 
-![Screen Shot 2022-05-12 at 14.08.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.05.png)
+![Screen Shot 2022-05-12 at 14.08.05.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.05.png)
 
-![Screen Shot 2022-05-12 at 14.08.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.19.png)
+![Screen Shot 2022-05-12 at 14.08.19.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.19.png)
 
-![Screen Shot 2022-05-12 at 14.08.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.48.png)
+![Screen Shot 2022-05-12 at 14.08.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.48.png)
 
-![Screen Shot 2022-05-12 at 14.08.58.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.58.png)
+![Screen Shot 2022-05-12 at 14.08.58.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.08.58.png)
 
-![Screen Shot 2022-05-12 at 14.11.54.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.11.54.png)
+![Screen Shot 2022-05-12 at 14.11.54.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.11.54.png)
 
 ### Linear Threshold Unit Python code
 
@@ -87,7 +87,7 @@ Output
 
 # Delta Learning Rule
 
-![Screen Shot 2022-05-12 at 14.13.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.13.14.png)
+![Screen Shot 2022-05-12 at 14.13.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.13.14.png)
 
 ### Delta Learning Rule Python Code
 
@@ -215,25 +215,25 @@ Output
 
 # Hebbian Learning Rule
 
-![Screen Shot 2022-05-12 at 14.45.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.06.png)
+![Screen Shot 2022-05-12 at 14.45.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.06.png)
 
 # Competitive Learning Networks
 
-![Screen Shot 2022-05-12 at 14.45.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.39.png)
+![Screen Shot 2022-05-12 at 14.45.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.39.png)
 
-![Screen Shot 2022-05-12 at 14.45.56.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.56.png)
+![Screen Shot 2022-05-12 at 14.45.56.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.45.56.png)
 
-![Screen Shot 2022-05-12 at 14.46.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.11.png)
+![Screen Shot 2022-05-12 at 14.46.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.11.png)
 
-![Screen Shot 2022-05-12 at 14.46.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.21.png)
+![Screen Shot 2022-05-12 at 14.46.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.21.png)
 
-![Screen Shot 2022-05-12 at 14.46.34.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.34.png)
+![Screen Shot 2022-05-12 at 14.46.34.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_14.46.34.png)
 
 # Negative Feedback Networks
 
-![Screen Shot 2022-05-12 at 15.00.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.14.png)
+![Screen Shot 2022-05-12 at 15.00.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.14.png)
 
-![Screen Shot 2022-05-12 at 15.00.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.24.png)
+![Screen Shot 2022-05-12 at 15.00.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.24.png)
 
 
 ### Negative feedback network Python code
@@ -282,14 +282,14 @@ Output
 
 # Autoencoder Networks
 
-![Screen Shot 2022-05-12 at 15.00.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.49.png)
+![Screen Shot 2022-05-12 at 15.00.49.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.00.49.png)
 
-![Screen Shot 2022-05-12 at 15.01.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.20.png)
+![Screen Shot 2022-05-12 at 15.01.20.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.20.png)
 
-![Screen Shot 2022-05-12 at 15.01.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.36.png)
+![Screen Shot 2022-05-12 at 15.01.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.36.png)
 
-![Screen Shot 2022-05-12 at 15.01.52.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.52.png)
+![Screen Shot 2022-05-12 at 15.01.52.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.01.52.png)
 
-![Screen Shot 2022-05-12 at 15.02.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.04.png)
+![Screen Shot 2022-05-12 at 15.02.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.04.png)
 
-![Screen Shot 2022-05-12 at 15.02.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.16.png)
+![Screen Shot 2022-05-12 at 15.02.16.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%203%20Introduction%20to%20Neural%20Networks%20e2ef9411fce340be94cc8be0e6d560b7/Screen_Shot_2022-05-12_at_15.02.16.png)

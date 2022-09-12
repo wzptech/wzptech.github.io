@@ -10,21 +10,21 @@ tags: [Deep Learning, Feature Extraction]
 # Deep Learning: Feature Extraction
 Here is my [Deep Learning Full Tutorial](https://pengwz.info/categories/deep-learning/)!
 
-![Screen Shot 2022-05-13 at 21.55.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_21.55.39.png)
+![Screen Shot 2022-05-13 at 21.55.39.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_21.55.39.png)
 
 ## Principal Components Analysis
 
-![Screen Shot 2022-05-13 at 22.02.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.02.22.png)
+![Screen Shot 2022-05-13 at 22.02.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.02.22.png)
 
-![Screen Shot 2022-05-13 at 22.02.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.02.40.png)
+![Screen Shot 2022-05-13 at 22.02.40.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.02.40.png)
 
-![Screen Shot 2022-05-13 at 22.25.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.25.33.png)
+![Screen Shot 2022-05-13 at 22.25.33.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.25.33.png)
 
-![Screen Shot 2022-05-13 at 22.26.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.26.36.png)
+![Screen Shot 2022-05-13 at 22.26.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.26.36.png)
 
-![Screen Shot 2022-05-13 at 22.26.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.26.48.png)
+![Screen Shot 2022-05-13 at 22.26.48.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.26.48.png)
 
-![Screen Shot 2022-05-13 at 22.27.02.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.27.02.png)
+![Screen Shot 2022-05-13 at 22.27.02.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.27.02.png)
 
 ### Traditional PCA python code
 
@@ -211,15 +211,15 @@ Output
 
 ## Whitening Transform
 
-![Screen Shot 2022-05-13 at 22.27.15.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.27.15.png)
+![Screen Shot 2022-05-13 at 22.27.15.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.27.15.png)
 
 # Linear Discriminant Analysis
 
-![Screen Shot 2022-05-13 at 22.28.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.28.21.png)
+![Screen Shot 2022-05-13 at 22.28.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.28.21.png)
 
-![Screen Shot 2022-05-13 at 22.28.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.28.46.png)
+![Screen Shot 2022-05-13 at 22.28.46.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.28.46.png)
 
-![Screen Shot 2022-05-13 at 22.29.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.29.04.png)
+![Screen Shot 2022-05-13 at 22.29.04.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.29.04.png)
 
 ### Linear Discriminant Analysis (LDA) python code
 
@@ -262,41 +262,41 @@ Output
 
 # Independent Component Analysis (ICA)
 
-![Screen Shot 2022-05-13 at 22.32.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.32.29.png)
+![Screen Shot 2022-05-13 at 22.32.29.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.32.29.png)
 
-![Screen Shot 2022-05-13 at 22.36.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.36.18.png)
+![Screen Shot 2022-05-13 at 22.36.18.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.36.18.png)
 
-![Screen Shot 2022-05-13 at 22.37.31.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.37.31.png)
+![Screen Shot 2022-05-13 at 22.37.31.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.37.31.png)
 
-![Screen Shot 2022-05-13 at 22.37.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.37.53.png)
+![Screen Shot 2022-05-13 at 22.37.53.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.37.53.png)
 
 # Random Projections
 
-![Screen Shot 2022-05-13 at 22.39.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.39.55.png)
+![Screen Shot 2022-05-13 at 22.39.55.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.39.55.png)
 
-![Screen Shot 2022-05-13 at 22.40.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.40.11.png)
+![Screen Shot 2022-05-13 at 22.40.11.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.40.11.png)
 
-![Screen Shot 2022-05-13 at 22.40.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.40.22.png)
+![Screen Shot 2022-05-13 at 22.40.22.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.40.22.png)
 
-![Screen Shot 2022-05-13 at 22.41.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.03.png)
+![Screen Shot 2022-05-13 at 22.41.03.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.03.png)
 
-![Screen Shot 2022-05-13 at 22.41.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.14.png)
+![Screen Shot 2022-05-13 at 22.41.14.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.14.png)
 
-![Screen Shot 2022-05-13 at 22.41.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.24.png)
+![Screen Shot 2022-05-13 at 22.41.24.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.24.png)
 
 # Sparse Coding
 
-![Screen Shot 2022-05-13 at 22.41.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.50.png)
+![Screen Shot 2022-05-13 at 22.41.50.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.41.50.png)
 
-![Screen Shot 2022-05-13 at 22.42.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.42.06.png)
+![Screen Shot 2022-05-13 at 22.42.06.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.42.06.png)
 
-![Screen Shot 2022-05-13 at 22.43.01.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.01.png)
+![Screen Shot 2022-05-13 at 22.43.01.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.01.png)
 
-![Screen Shot 2022-05-13 at 22.43.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.21.png)
+![Screen Shot 2022-05-13 at 22.43.21.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.21.png)
 
-![Screen Shot 2022-05-13 at 22.43.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.36.png)
+![Screen Shot 2022-05-13 at 22.43.36.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.43.36.png)
 
-![Screen Shot 2022-05-13 at 22.44.01.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/_posts/data/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.44.01.png)
+![Screen Shot 2022-05-13 at 22.44.01.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/post-images/Week%207%20Feature%20Extraction%206b9ea972ae9e4fb6ae8323134eb8b9ba/Screen_Shot_2022-05-13_at_22.44.01.png)
 
 ### Sparse Coding python code
 
