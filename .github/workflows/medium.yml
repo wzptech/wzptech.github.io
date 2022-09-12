@@ -45,5 +45,5 @@ jobs:
         with:
           access_token: ${{ secrets.MEDIUM_ACCESS_TOKEN }}
           markdown_file: ${{ matrix.node }}
-          base_url: https://myblog.com
-          post_url: https://myblog.com/posts
+          base_url: https://pengwz.info
+          post_url: https://pengwz.info/posts

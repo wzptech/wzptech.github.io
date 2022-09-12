@@ -14,3 +14,4 @@
     bundle exec jekyll s
 ## In docker
     docker-compose up
+## Github action ready
