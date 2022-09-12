@@ -3,7 +3,7 @@ title: Feature Extraction
 author: Weizhi Peng
 date: 2022-03-20 18:32:00 -0500
 categories: [Deep Learning, Feature Extraction]
-tags: [Deep Learning, Feature Extraction]
+tags: [Deep Learning, Feature Extraction, python, code, tutorial]
 ---
 
 

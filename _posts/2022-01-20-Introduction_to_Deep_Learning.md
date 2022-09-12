@@ -3,7 +3,7 @@ title: Introduction to Deep Learning
 author: Weizhi Peng
 date: 2022-01-20 18:32:00 -0500
 categories: [Deep Learning, Introduction]
-tags: [Deep Learning, Machine Learning]
+tags: [Deep Learning, Machine Learning, python, code, tutorial]
 ---
 
 # Deep Learning: Introduction to Deep Learning

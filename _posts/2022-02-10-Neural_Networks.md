@@ -3,7 +3,7 @@ title: Neural Networks
 author: Weizhi Peng
 date: 2022-02-10 18:32:00 -0500
 categories: [Deep Learning, Neural Networks]
-tags: [Deep Learning, Neural Networks]
+tags: [Deep Learning, Neural Networks, python, code, tutorial]
 ---
 
 

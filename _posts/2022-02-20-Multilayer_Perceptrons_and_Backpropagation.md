@@ -3,7 +3,7 @@ title: Multilayer Perceptrons and Backpropagation
 author: Weizhi Peng
 date: 2022-02-20 18:32:00 -0500
 categories: [Deep Learning, Multilayer Perceptrons and Backpropagation]
-tags: [Deep Learning, Multilayer Perceptrons and Backpropagation]
+tags: [Deep Learning, Multilayer Perceptrons and Backpropagation, python, code, tutorial]
 ---
 
 

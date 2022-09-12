@@ -3,7 +3,7 @@ title: Discriminant Functions
 author: Weizhi Peng
 date: 2022-02-01 18:32:00 -0500
 categories: [Deep Learning, Discriminant Functions]
-tags: [Deep Learning, Discriminant Functions]
+tags: [Deep Learning, Discriminant Functions, python, code, tutorial]
 ---
 
 

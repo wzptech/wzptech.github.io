@@ -3,7 +3,7 @@ title: Deep Discriminative Neural Networks
 author: Weizhi Peng
 date: 2022-02-28 18:32:00 -0500
 categories: [Deep Learning, Deep Discriminative Neural Networks]
-tags: [Deep Learning, Deep Discriminative Neural Networks]
+tags: [Deep Learning, Deep Discriminative Neural Networks, python, code, tutorial]
 ---
 
 

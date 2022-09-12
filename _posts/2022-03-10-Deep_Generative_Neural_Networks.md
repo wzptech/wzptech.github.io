@@ -3,7 +3,7 @@ title: Deep Generative Neural Networks
 author: Weizhi Peng
 date: 2022-03-10 18:32:00 -0500
 categories: [Deep Learning, Deep Generative Neural Networks]
-tags: [Deep Learning, Deep Generative Neural Networks]
+tags: [Deep Learning, Deep Generative Neural Networks, python, code, tutorial]
 ---
 
 

@@ -24,14 +24,14 @@ Natural Language Processing, Natural Language Generation, Chat Bot, AI Art.
 
 Python, Java, C++, Html, Javascripts, SQL
 
-Used to use Django and React for web development, Django as the back end and React as the front end.
+Experience in Django and React for web development, Django as the back end and React as the front end.
 
-Used to use Java Spring boot and MyBatis for web development. 
+Experience in Java Spring boot and MyBatis for web development. 
 
-Used to use Java LWJGL, JavaFX, Network Programming, MySQL for online multiplayer game development.
+Experience in Java LWJGL, JavaFX, Network Programming, MySQL for online multiplayer game development.
 
-Used to use Java Swing, MySQL, Network Programming to develop instant message applications like Skype.
+Experience in Java Swing, MySQL, Network Programming to develop instant message applications like Skype.
 
-Used to lead to carry out DevOps with Agile software development with team, from finishing doc, designing database to implementing client side and server side software every loop.
+Experience in carrying out DevOps with Agile software development with team, from finishing doc, designing database to implementing client side and server side software every loop.
 
 Native Speaker in Chinese, Fluent Speaker in English.

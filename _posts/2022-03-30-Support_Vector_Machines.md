@@ -3,7 +3,7 @@ title: Support Vector Machines
 author: Weizhi Peng
 date: 2022-03-30 18:32:00 -0500
 categories: [Deep Learning, Support Vector Machines]
-tags: [Deep Learning, Support Vector Machines]
+tags: [Deep Learning, Support Vector Machines, python, code, tutorial]
 ---
 
 
