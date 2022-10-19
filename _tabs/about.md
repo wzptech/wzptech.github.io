@@ -21,17 +21,38 @@ Here is my [CV](https://miraclove.com/cv/).
 Natural Language Processing, Natural Language Generation, Chat Bot, AI Art.
 
 # Personal Skills
+Python, Java, C++, Html, Javascript, SQL
 
-Python, Java, C++, Html, Javascripts, SQL
+Tensorflow, Pytorch, Scikit-learn, Pandas, Docker etc.
 
-Experience in Django and React for web development, Django as the back end and React as the front end.
+## Research
+
+### Natural Language Processing
+
+Recommendation and Article Summary Generation for the COVID Corpus Website with the Ph.D. team using Topic Modelling (LDA), FNN, etc.
+
+Few-shot Learning for Text Generation using T5, BART, BERT.
+
+### Computer Vision
+Used to carry out Medical Image Segmentation on MRI Images by using UNet, CNN, etc and achieve a state of the art results.
+
+Used to carry out Image classification on MINST datasets and achieve 99% at the top of the benchmark.
+
+
+
+
+## Software 
+Experience in using Docker and Docker Compose for Mirco services in Web servers.
+
+Experience in Django and React for web development, with Django as the back end and React as the front end.
 
 Experience in Java Spring boot and MyBatis for web development. 
 
-Experience in Java LWJGL, JavaFX, Network Programming, MySQL for online multiplayer game development.
+Experience in Java LWJGL, JavaFX, Network Programming, and MySQL for online multiplayer game development.
 
-Experience in Java Swing, MySQL, Network Programming to develop instant message applications like Skype.
+Experience in Java Swing, MySQL, and Network Programming to develop instant message applications like Skype.
 
-Experience in carrying out DevOps with Agile software development with team, from finishing doc, designing database to implementing client side and server side software every loop.
+Experience in carrying out DevOps with Agile software development with the team, from finishing doc, and designing databases to implementing client-side and server-side software every loop.
 
-Native Speaker in Chinese, Fluent Speaker in English.
+## Language
+Native Speaker of Chinese, Fluent Speaker in English.
