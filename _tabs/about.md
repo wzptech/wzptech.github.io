@@ -6,7 +6,8 @@ order: 4
 
 # Biography
 
-I am currently a King's College London student studying for a master's degree in Artificial Intelligence. Before that, I graduated from the University of Birmingham with First Honor Degree. 
+
+I currently study in Canada. I have graduated from King's College London with a master's degree in Artificial Intelligence. Before that, I graduated from the University of Birmingham with First Honor Degree.
 
 I used to work in [Covid Corpus](https://www.covidcorpus.org/Home) PhD group led by Dr Mohammed Bahja at the University of Birmingham. My responsibility is to design and implement Natural Language Processing modules, including Topic Modeling, Text Summarization and Article Recommendation. 
 
@@ -14,7 +15,47 @@ I used to work in [Covid Corpus](https://www.covidcorpus.org/Home) PhD group led
 
 After that, I mainly focus on Natural Language Generation tasks. During my master's degree, I was working on Few-Shot Learning for Table-to-Text Generation. The model makes state-of-the-art results using improvement techniques such as memory storage and prototype instance selection.
 
-Here is my [CV](https://miraclove.com/cv/).
+Here is my [Resume](/assets/Weizhi%20PENG%20-%20resume.pdf).
+
+## Work Experience
+
+### Machine Learning Engineer Internship at [Shengqu Games](https://www.shengqugames-corp.com)
+
+In my latest tech endeavor during my internship, I focused on harnessing the power of large language models (LLMs) to refine the software development lifecycle. The goal was to leverage the company's existing API documentation to train an LLM that could assist developers by providing real-time coding suggestions and conversational guidance directly related to the company's APIs.
+
+Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclove/DevAssistant)
+
+[More Detail](/posts/MLE_Intern_at_Shengqu_Games/)
+
+---
+
+
+### Quantitative Machine Learning Internship at [BOC International](https://www.bocigroup.com/Web/Index)
+
+During my time as a Quantitative Machine Learning Intern in the bustling financial hub of Shanghai, China, within a dynamic Fintech Department from April to July 2023, I embarked on a deep-dive into the fusion of advanced machine learning and **high-frequency trading (HFT)**.
+
+[More Detail](/posts/MLE_Intern_at_BOC/)
+
+## Research Experience
+
+### Few-shot Learning for Text Generation
+
+At the prestigious King’s College London, from January 2022 to January 2023, I was engrossed in cutting-edge research centered on Few-shot Learning, a subdomain of machine learning focusing on the capability of models to learn from a limited amount of data. My role as a researcher allowed me to dive into the challenges of text generation—a field where the articulation of coherent and contextually relevant narratives from structured data, like tables, is the prime objective.
+
+[More Detail](/posts/Few_Shot_Learning/)
+
+---
+
+### Software Developer at Covid Corpus
+
+In a project that delved into the wealth of COVID-related academic literature, I had the unique opportunity to apply my machine learning skills to make sense of complex datasets. The project, a part of my final year under the guidance of my project supervisor, was a cornerstone in my exploration of natural language processing (NLP) and its applications in the real world.
+
+[Visit Visualization Demo](https://miraclove.com/service/nlp-analysis/)
+
+[More Detail](/posts/Development_Covid_Corpus/)
+
+
+
 
 # Research Interests
 
