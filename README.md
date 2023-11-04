@@ -15,3 +15,4 @@
 ## In docker
     docker-compose up
 ## Github action ready
+    remember to delete dem.lock file
