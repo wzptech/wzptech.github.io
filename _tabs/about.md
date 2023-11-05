@@ -7,7 +7,7 @@ order: 4
 # Biography
 
 
-I currently study in Canada. I have graduated from King's College London with a master's degree in Artificial Intelligence. Before that, I graduated from the University of Birmingham with First Honor Degree.
+I currently live in Vancouver, BC, Canada. I have graduated from King's College London with a master's degree in Artificial Intelligence. Before that, I graduated from the University of Birmingham with First Honor Degree.
 
 I used to work in [Covid Corpus](https://www.covidcorpus.org/Home) PhD group led by Dr Mohammed Bahja at the University of Birmingham. My responsibility is to design and implement Natural Language Processing modules, including Topic Modeling, Text Summarization and Article Recommendation. 
 
@@ -17,9 +17,11 @@ After that, I mainly focus on Natural Language Generation tasks. During my maste
 
 Here is my [Resume](/assets/Weizhi%20PENG%20-%20resume.pdf).
 
-## Work Experience
+# Work Experience
 
 ### Machine Learning Engineer Internship at [Shengqu Games](https://www.shengqugames-corp.com)
+
+**08.2023 – 11.2023**
 
 In my latest tech endeavor during my internship, I focused on harnessing the power of large language models (LLMs) to refine the software development lifecycle. The goal was to leverage the company's existing API documentation to train an LLM that could assist developers by providing real-time coding suggestions and conversational guidance directly related to the company's APIs.
 
@@ -32,13 +34,17 @@ Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclov
 
 ### Quantitative Machine Learning Internship at [BOC International](https://www.bocigroup.com/Web/Index)
 
+**04.2023 – 07.2023**
+
 During my time as a Quantitative Machine Learning Intern in the bustling financial hub of Shanghai, China, within a dynamic Fintech Department from April to July 2023, I embarked on a deep-dive into the fusion of advanced machine learning and **high-frequency trading (HFT)**.
 
 [More Detail](/posts/MLE_Intern_at_BOC/)
 
-## Research Experience
+# Research Experience
 
 ### Few-shot Learning for Text Generation
+
+**01.2022 – 01.2023**
 
 At the prestigious King’s College London, from January 2022 to January 2023, I was engrossed in cutting-edge research centered on Few-shot Learning, a subdomain of machine learning focusing on the capability of models to learn from a limited amount of data. My role as a researcher allowed me to dive into the challenges of text generation—a field where the articulation of coherent and contextually relevant narratives from structured data, like tables, is the prime objective.
 
@@ -47,6 +53,8 @@ At the prestigious King’s College London, from January 2022 to January 2023, I
 ---
 
 ### Software Developer at Covid Corpus
+
+**10.2020 – 06.2021**
 
 In a project that delved into the wealth of COVID-related academic literature, I had the unique opportunity to apply my machine learning skills to make sense of complex datasets. The project, a part of my final year under the guidance of my project supervisor, was a cornerstone in my exploration of natural language processing (NLP) and its applications in the real world.
 

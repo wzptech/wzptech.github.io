@@ -13,6 +13,12 @@ tags: [LLM, Pytorch, BERT, GPT, Stock, Quantitative Trade]
 
 During my time as a Quantitative Machine Learning Intern in the bustling financial hub of Shanghai, China, within a dynamic Fintech Department from April to July 2023, I embarked on a deep-dive into the fusion of advanced machine learning and **high-frequency trading (HFT)**.
 
+## Highlight
+
+- Design, training, optimization, deployment and trading algorithm design, development and optimization of time series based Transformer, GPT, BERT architecture for high frequency trading models.
+
+- Analyze large amounts of financial market data, discover and interpret patterns, and work with a team of software engineers to embed the models into trading systems.
+
 ## Related Work
 
 ### Leveraging Time Series and Transformer Models:

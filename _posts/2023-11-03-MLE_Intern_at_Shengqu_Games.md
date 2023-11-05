@@ -18,6 +18,19 @@ Left is chat with API document. Right is code complete.
 ![overview.png](https://raw.githubusercontent.com/wzptech/wzptech.github.io/main/assets/img/overview.png)
 
 
+## Github Repository
+Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclove/DevAssistant)
+
+
+## Highlight
+- Led the development of a 7-billion parameter language model for code completion, using PyTorch. Improved user interaction by fine-tuning the model for instructional chatting.
+
+- Streamlined the model training process with Accelerate and DeepSpeed in a Linux environment, using four A100 GPUs, and formulated a unique evaluation method to ensure model accuracy.
+
+- Deployed the model on a high-performance server using VLLM for fast responses.
+
+- Engineered a Visual Studio Code extension for real-time coding assistance with company API documents, mirroring GitHub Copilot's functionality, and added a chat feature using the fine-tuning model for user API queries.
+
 ## Related Work
 
 In my latest tech endeavor during my internship, I focused on harnessing the power of large language models (LLMs) to refine the software development lifecycle. The goal was to leverage the company's existing API documentation to train an LLM that could assist developers by providing real-time coding suggestions and conversational guidance directly related to the company's APIs.
@@ -44,5 +57,3 @@ To bring this technology directly into the developer's workflow, I created a Vis
 
 Through these efforts, my internship project sought not only to enhance coding productivity but also to enrich the developer experience with AI-powered tools tailored to the company's specific development ecosystem.
 
-## Github Repository
-Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclove/DevAssistant)

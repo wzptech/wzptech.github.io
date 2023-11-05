@@ -18,7 +18,11 @@ In a project that delved into the wealth of COVID-related academic literature, I
 
 
 
+## Highlight
 
+- Deployed NLP functions on a Django server, providing robust APIs for seamless analysis result retrieval. Spearheaded the NLP module development for the COVID Corpus website using the React framework, working closely with the development team to ensure accurate and effective data visualization.
+
+- Cleaned and preprocessed COVID-19 research data with NLP pipelines for quality analysis. Applied LDA algorithms for effective topic modelling in large datasets. Implemented BERT-based summarization tools to distill detailed academic texts into brief overviews. Built a recommendation system using TF-IDF and document similarity to improve the ease of finding related research.
 
 ## Related Work
 

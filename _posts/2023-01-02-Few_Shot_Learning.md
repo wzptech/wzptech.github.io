@@ -10,6 +10,11 @@ tags: [LDA, Pytorch, BERT, Transformer, GPT, T5, BART, NLP]
 
 At the prestigious King’s College London, from January 2022 to January 2023, I was engrossed in cutting-edge research centered on Few-shot Learning, a subdomain of machine learning focusing on the capability of models to learn from a limited amount of data. My role as a researcher allowed me to dive into the challenges of text generation—a field where the articulation of coherent and contextually relevant narratives from structured data, like tables, is the prime objective.
 
+## Highlight
+
+- In academic research, pre-training models such as T5, GPT2, Bart, etc are used to generate Table to Text generation by Few-shot Learning and memory is utilized to store pre-training knowledge and training instance selection is used to improve training performance and achieve higher performance.
+
+- Pre-trained models are trained and tested using books, songs and other public datasets, evaluated and optimized using BLEU-4, ROUGE-4 and other methods.
 ## Related Work
 
 ### Employing Advanced Pre-trained Models:
