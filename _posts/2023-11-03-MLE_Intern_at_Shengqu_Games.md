@@ -35,9 +35,9 @@ Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclov
 
 In my latest tech endeavor during my internship, I focused on harnessing the power of large language models (LLMs) to refine the software development lifecycle. The goal was to leverage the company's existing API documentation to train an LLM that could assist developers by providing real-time coding suggestions and conversational guidance directly related to the company's APIs.
 
-**Pretraining and Fine-tuning the Language Model:**
+**Training and Fine-tuning the Language Model:**
 
-Utilizing the versatility of **PyTorch**, I pretrained a **20B** parameter language model, a task that lays the foundation for the model to understand and generate human-like text. This pretraining was specifically aimed at enhancing code completion tasks. Beyond this, I fine-tuned the same model to facilitate an instructional chat, enabling it to understand and respond to queries about the company’s coding protocols.
+Utilizing the versatility of **PyTorch**, I trained a **20B** parameter language model, a task that lays the foundation for the model to understand and generate human-like text. This training was specifically aimed at enhancing code completion tasks. Beyond this, I fine-tuned the same model to facilitate an instructional chat, enabling it to understand and respond to queries about the company’s coding protocols.
 
 **Data Collection and Preparation:**
 
