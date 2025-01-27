@@ -23,7 +23,7 @@ Project: [https://github.com/Miraclove/DevAssistant](https://github.com/Miraclov
 
 
 ## Highlight
-- Led the development of a 7-billion parameter language model for code completion, using PyTorch. Improved user interaction by fine-tuning the model for instructional chatting.
+- Led the development of a 20-billion parameter language model for code completion, using PyTorch. Improved user interaction by fine-tuning the model for instructional chatting.
 
 - Streamlined the model training process with Accelerate and DeepSpeed in a Linux environment, using four A100 GPUs, and formulated a unique evaluation method to ensure model accuracy.
 
@@ -53,7 +53,7 @@ To validate the model's performance, I wrote an evaluation script that measured 
 
 Post-training, I set up an endpoint server to deploy the model. This was powered by **VLLM** for swift inference, making the AI's capabilities readily accessible for real-time applications.
 
-To bring this technology directly into the developer's workflow, I created a Visual Studio Code (VSCode) plugin using **TypeScript**. This plugin integrates the pre-trained 7B model to offer in-line code completions, akin to GitHub Copilot. Additionally, a sidebar was integrated into the plugin for interactive chat, employing the fine-tuned 7B model to converse with users, effectively providing a virtual coding assistant within the IDE.
+To bring this technology directly into the developer's workflow, I created a Visual Studio Code (VSCode) plugin using **TypeScript**. This plugin integrates the pre-trained 20B model to offer in-line code completions, akin to GitHub Copilot. Additionally, a sidebar was integrated into the plugin for interactive chat, employing the fine-tuned 20B model to converse with users, effectively providing a virtual coding assistant within the IDE.
 
 Through these efforts, my internship project sought not only to enhance coding productivity but also to enrich the developer experience with AI-powered tools tailored to the company's specific development ecosystem.
 
