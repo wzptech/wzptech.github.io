@@ -1,11 +1,32 @@
-version: "3.8"
+version: '3'
 
 services:
   jekyll:
-    image: jekyll/jekyll:latest
-    container_name: jekyll
+    image: ruby:3.4.2
+    container_name: jekyll-site
+    working_dir: /srv/jekyll
     volumes:
       - .:/srv/jekyll
     ports:
       - "4000:4000"
-    command: jekyll serve --host 0.0.0.0
+    environment:
+      - BUNDLE_PATH=/srv/jekyll/vendor/bundle
+      - JEKYLL_ENV=development
+    command: >
+      bash -c "
+        # Install dependencies
+        apt-get update && apt-get install -y build-essential git
+        
+        # Fix git ownership issue
+        git config --global --add safe.directory /srv/jekyll
+        
+        # Remove Gemfile.lock to allow bundler to resolve dependencies fresh
+        rm -f Gemfile.lock
+        
+        # Install Jekyll and dependencies
+        gem install bundler
+        bundle config set --local path 'vendor/bundle'
+        bundle install
+        
+        # Run Jekyll
+        bundle exec jekyll serve --host 0.0.0.0"
